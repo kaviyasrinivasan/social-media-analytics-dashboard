@@ -9,7 +9,7 @@ The **Social Media Analytics Dashboard** is a full-stack web application that ag
 - **Database:** MongoDB
 - **APIs Used:**
   - LinkedIn API
-  - YouTube Data API
+  - YouTube Data API    
 
 ## 🔄 Workflow
 1️⃣ **User logs in**  
