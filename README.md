@@ -27,26 +27,6 @@ The **Social Media Analytics Dashboard** is a full-stack web application that ag
 ✅ **Scheduled Data Fetching** from APIs  
 
 
-## ⌚ Timeline
-
-**Day 1-2:** Project Setup & Authentication
-
-**Day 3-4:** API Integrations (Fetching Data)
-
-**Day 5-6:** YouTube & LinkedIn Integration
-
-**Day 7:** Backend Completion & Initial Testing
-
-**Day 8-9:** Dashboard UI & Data Visualization
-
-**Day 10-11:** Reports & Export Feature
-
-**Day 12:** Testing & Bug Fixes
-
-**Day 13:** Deployment & Final Touches
-
-**Day 14:** Documentation & Project Handover
- 
 
 ## 🛠️ Future Enhancements  
 - **Email Alerts** for analytics updates  
