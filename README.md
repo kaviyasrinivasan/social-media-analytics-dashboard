@@ -51,3 +51,15 @@ The **Social Media Analytics Dashboard** is a full-stack web application that ag
 ## 🛠️ Future Enhancements  
 - **Email Alerts** for analytics updates  
 - **Dark Mode UI**  
+
+## 📸Layout Images
+
+![another layout image](./imgs/Untitled%20-%20Frame%201.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%205.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%202.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%207.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%209.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%208.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%206.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%2010.jpg)
+![another layout image](./imgs/Untitled%20-%20Frame%2011.jpg)
